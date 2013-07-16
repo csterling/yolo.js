@@ -13,8 +13,10 @@ function yolo(e){
 function yoloEgg(){
 	console.log('yolo fool');
 }
- 
- 
+
+
+
+
 	
 	
 
